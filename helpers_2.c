@@ -1,9 +1,3 @@
-/*
- * File: helpers_2.c
- * Author: Nmesoma, Solomon Peter
- *         Mayode Akintola
- */
-
 #include "shell.h"
 
 void handle_line(char **line, ssize_t read);

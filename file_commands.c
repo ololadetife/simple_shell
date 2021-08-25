@@ -1,9 +1,3 @@
-/*
- * File: proc_file_comm.c
- * Authors: Nmesoma, Solomon Peter
- *          Mayode Akintola
- */
-
 #include "shell.h"
 
 int cant_open(char *file_path);

@@ -1,9 +1,3 @@
-/*
- * File: main.c
- * Authors: Nmesoma, Solomon Peter
- *          Mayode Akintola
- */
-
 #include "shell.h"
 
 void sig_handler(int sig);

@@ -1,9 +1,3 @@
-/*
- * File: locate.c
- * Authors: Nmesoma, Solomon Peter
- *          Mayode Akintola
- */
-
 #include "shell.h"
 
 char *fill_path_dir(char *path);
